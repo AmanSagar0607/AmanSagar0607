@@ -12,7 +12,7 @@
 
 ⚡ Puzzle-solving games & AI tools enthusiast!<br><br>
 
-📫 Reach me: Amansagar0307@gmail.com
+📫 Reach me: Amansagar0307@gmail.com<br><br>
 
 
 
