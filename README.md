@@ -1,4 +1,8 @@
+<center>
+
 # Hi,👋🏼 I am Aman Sagar
+
+</center>
 
 🔭 Improving JavaScript skills, building web apps with React.js & Next.js.<br><br>
 
