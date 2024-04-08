@@ -1,8 +1,22 @@
-# 👋🏼 Hello I am Aman Sagar:
-🔭 I’m currently working on improving my JavaScript skills and building innovative web applications, utilizing technologies like React.js and exploring Next.js for server-side rendering.<br><br>👯 I’m looking to collaborate on open-source projects and new oppurtubities related to web development, particularly those involving JavaScript frameworks like React or Node.js.<br><br>🤝 I’m looking for help with mastering advanced JavaScript concepts and exploring new technologies in the web development landscape, especially in the realm of React.js and Next.js.<br><br>🌱 I’m currently learning about advance javascript and exploring its benefits in building scalable web applications, alongside diving into go lang for efficient server-side rendering.<br><br>💬 Ask me about JavaScript, web development best practices, or anything related to programming and technology!<br><br>⚡ Fun fact: I'm a big fan of puzzle-solving games  and AI-Tools and enjoy exploring in my free time. <br><br>📫 How to reach me Amansagar0307@gmail.com
+# Hi,👋🏼 I am Aman Sagar
+```markdown
+🔭 Improving JavaScript skills, building web apps with React.js & Next.js.
+
+👯 Open to collabs on web projects, especially React & Node.js.
+
+🌱 Learning advanced JS & exploring Go for server-side rendering.
+
+💬 Ask me about JavaScript, web dev, or tech!
+
+🤝 Seeking help with Data Structures!
+
+⚡ Fun fact: Puzzle-solving games & AI tools enthusiast!
+
+📫 Reach me: Amansagar0307@gmail.com
+```
 
 
-## 🌐 Socials:
+## 🌐 Socials: Connect with me
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/amansagar0607) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/amansagar2011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Aman_Sagar0607/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amansagar0607/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://amansagar0607.medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22981644/aman-sagar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/AmanSagar0607) 
 
 # 💻 Tech Stack:
