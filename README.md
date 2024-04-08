@@ -1,16 +1,18 @@
 # Hi,👋🏼 I am Aman Sagar
 
-🔭 I’m currently working on improving my JavaScript skills and building innovative web applications, utilizing technologies like React.js and exploring Next.js for server-side rendering.<br><br>
+🔭 Improving JavaScript skills, building web apps with React.js & Next.js.<br><br>
 
-👯 I’m looking to collaborate on open-source projects and new opportunities related to web development, particularly those involving JavaScript frameworks like React or Node.js.<br><br>
+👯 Open to collabs on web projects, especially React & Node.js.<br><br>
 
-🌱 I’m currently learning about advanced JavaScript and exploring its benefits in building scalable web applications, alongside diving into Go lang for efficient server-side rendering.<br><br>
+🌱 Learning advanced JS & exploring Go for server-side rendering.<br><br>
 
-💬 Ask me about JavaScript, web development best practices, or anything related to programming and technology!<br><br>
+💬 Ask me about JavaScript, web dev, or tech!<br><br>
 
-⚡ Fun fact: I'm a big fan of puzzle-solving games and AI-Tools and enjoy exploring in my free time. <br><br>
+🤝 Seeking help with Data Structures!<br><br>
 
-📫 How to reach me: Amansagar0307@gmail.com
+⚡ Puzzle-solving games & AI tools enthusiast!<br><br>
+
+📫 Reach me: Amansagar0307@gmail.com
 
 
 
