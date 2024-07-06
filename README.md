@@ -4,7 +4,7 @@
 
 </center>
 
-🔭 Improving JavaScript skills, building web apps with React.js & Next.js.<br><br>
+🔭 Improving JavaScript skills, building web apps with React.js & Next.js<br><br>
 
 👯 Open to collabs on web projects, especially React & Node.js.<br><br>
 
